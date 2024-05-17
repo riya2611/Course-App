@@ -1,0 +1,17 @@
+.main{
+    display:flex;
+    /* align-items:stretch; */
+    /* justify-items: center; */
+}
+
+.module_container{
+    margin-right: 10px;
+}
+
+.link_container{
+    margin-right: 10px;
+}
+
+.file_container{
+    margin-right: 10px;
+}
